@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Ansof",
+      "email": "Ansof@gmail.com",
+      "phone": "7777777",
+      "id": 5
+    },
+    {
+      "name": "SOFTJOBS",
+      "email": "prueba@gmail.com",
+      "phone": "wrwerwer",
+      "id": 6
+    }
+  ]
+}
